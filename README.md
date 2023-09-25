@@ -1,5 +1,7 @@
 # Bitcoin Investment Checker
 
+![project_description](https://github.com/onurcangnc/THM-Python-Project2/blob/main/project_description.png)
+
 [![GitHub license](https://img.shields.io/github/license/onurcangnc/THM-Python-Project2.svg)](https://github.com/onurcangnc/THM-Python-Project2/blob/main/LICENSE)
 
 Monitor your Bitcoin investment and receive notifications when it falls below $30,000.
